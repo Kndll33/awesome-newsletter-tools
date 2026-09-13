@@ -48,6 +48,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Heybounce](https://www.heybounce.io) - Email verification service that checks if an email exists to reduce bounce rates.
 - [Inboxproof](https://inboxproof-phi.vercel.app/) - Free, no-signup email deliverability audit: SPF, DKIM, DMARC, TLS and IP reputation in ~30s, with a spam-risk score.
 - [Scrupp](https://scrupp.com/) - SMTP-verified email enrichment pulled from LinkedIn/Sales Navigator profiles, useful for building clean B2B newsletter subscriber lists with low bounce rates.
+- [ReviewMyDNS](https://reviewmydns.com/) - Plain-English DNS and email deliverability checker (SPF, DKIM, DMARC).
 
 ## Discoverability
 
